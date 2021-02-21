@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "name": "Work",
+      "color": "#5DE61A",
+      "count":"10 tasks",
+      "icon": "personal"
+    },
+    {
+        "id": 2,
+        "name": "Personal ",
+        "color": "#FFD506",
+        "count":"15 tasks",
+        "icon": "personal"
+    },
+    {
+      "id": 3,
+      "name": "Meetig ",
+      "color": "#FFD506",
+      "count":"15 tasks",
+      "icon": "personal"
+  },
+  {
+    "id": 4,
+    "name": "Shopping ",
+    "color": "#FFD506",
+    "count":"15 tasks",
+    "icon": "personal"
+}
+]

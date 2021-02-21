@@ -1,0 +1,30 @@
+[
+    {
+      "id": "1577ef33-a68f-4254-a0b4-7ca965b73ac5",
+      "name": "Go jogging",
+      "dateTime": "07:00",
+      "projectId":1,
+      "projectColor": "#FFD506"
+    },
+    {
+      "id": "c78a845a-44f8-422b-90a3-f910700bcd47",
+      "name": "Send project file",
+      "dateTime": "10:00",
+      "projectId":2,
+      "projectColor": "#1ED102"
+    },
+    {
+      "id": "842b11d3-6e36-423d-9798-9743ec8d5ec1",
+      "name": "Meeting with client",
+      "dateTime": "10:00",
+      "projectId":3,
+      "projectColor": "#D10263"
+    },
+    {
+      "id": "ad0fd62b-4f68-4104-b0ce-df7e11492cf3",
+      "name": "Email client",
+      "dateTime": "10:00",
+      "projectId":2,
+      "projectColor": "#1ED102"
+    }
+]

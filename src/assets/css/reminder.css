@@ -1,0 +1,17 @@
+/*!
+ =========================================================
+ * Remainder - v1.0.0 
+ =========================================================
+ */
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,500;1,200&display=swap");
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  background-color: #f7f6ff;
+  font-family: "Poppins", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
